@@ -1,0 +1,13 @@
+C:\Users\Fallout_Boyzzz\source\repos\ZD2\ZD2\bin\Debug\netcoreapp3.1\ZD2.exe
+C:\Users\Fallout_Boyzzz\source\repos\ZD2\ZD2\bin\Debug\netcoreapp3.1\ZD2.deps.json
+C:\Users\Fallout_Boyzzz\source\repos\ZD2\ZD2\bin\Debug\netcoreapp3.1\ZD2.runtimeconfig.json
+C:\Users\Fallout_Boyzzz\source\repos\ZD2\ZD2\bin\Debug\netcoreapp3.1\ZD2.runtimeconfig.dev.json
+C:\Users\Fallout_Boyzzz\source\repos\ZD2\ZD2\bin\Debug\netcoreapp3.1\ZD2.dll
+C:\Users\Fallout_Boyzzz\source\repos\ZD2\ZD2\bin\Debug\netcoreapp3.1\ZD2.pdb
+C:\Users\Fallout_Boyzzz\source\repos\ZD2\ZD2\obj\Debug\netcoreapp3.1\ZD2.csprojAssemblyReference.cache
+C:\Users\Fallout_Boyzzz\source\repos\ZD2\ZD2\obj\Debug\netcoreapp3.1\ZD2.csproj.CoreCompileInputs.cache
+C:\Users\Fallout_Boyzzz\source\repos\ZD2\ZD2\obj\Debug\netcoreapp3.1\ZD2.AssemblyInfoInputs.cache
+C:\Users\Fallout_Boyzzz\source\repos\ZD2\ZD2\obj\Debug\netcoreapp3.1\ZD2.AssemblyInfo.cs
+C:\Users\Fallout_Boyzzz\source\repos\ZD2\ZD2\obj\Debug\netcoreapp3.1\ZD2.dll
+C:\Users\Fallout_Boyzzz\source\repos\ZD2\ZD2\obj\Debug\netcoreapp3.1\ZD2.pdb
+C:\Users\Fallout_Boyzzz\source\repos\ZD2\ZD2\obj\Debug\netcoreapp3.1\ZD2.genruntimeconfig.cache
